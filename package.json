@@ -1,0 +1,19 @@
+{
+  "name": "evernote2boostnote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["evernote","boostnote"],
+  "author": "Mohamed Saleh",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "crypto": "^1.0.1",
+    "fast-xml-parser": "^3.3.6",
+    "fs-cson": "^0.3.2",
+    "jsdom": "^11.7.0"
+  }
+}
